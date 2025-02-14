@@ -1,2 +1,6 @@
 font-family = ComicCodeLigatures Nerd Font
 font-size = 16
+
+window-padding-balance = true
+window-colorspace = display-p3
+macos-titlebar-style = hidden
