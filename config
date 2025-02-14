@@ -4,3 +4,7 @@ font-size = 16
 window-padding-balance = true
 window-colorspace = display-p3
 macos-titlebar-style = hidden
+
+macos-option-as-alt = left
+keybind = alt+left=unbind
+keybind = alt+right=unbind
