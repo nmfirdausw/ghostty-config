@@ -8,3 +8,26 @@ macos-titlebar-style = hidden
 macos-option-as-alt = left
 keybind = alt+left=unbind
 keybind = alt+right=unbind
+
+palette = 0=#353D4A
+palette = 1=#C46760
+palette = 2=#F2E1C2
+palette = 3=#998C83
+palette = 4=#998C83
+palette = 5=#f4b8e4
+palette = 6=#F2E1C2
+palette = 7=#a5adce
+palette = 8=#353D4A
+palette = 9=#7A7B75
+palette = 10=#F2E1C2
+palette = 11=#998C83
+palette = 12=#F2E1C2
+palette = 13=#f2a4db
+palette = 14=#F2E1C2
+palette = 15=#b5bfe2
+background = #12171B
+foreground = #7A7B75
+cursor-color = #F2E1C2
+cursor-text = #12171B
+selection-background = #1F242A
+selection-foreground = #CBB397
